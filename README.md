@@ -16,7 +16,7 @@
 
 #### Code your strategy, use Backtest+, use graphs & data to improve your trading. Code less, backtest more !
 
-##### This library is currently in developpement
+##### This library is currently in developpement, release after Nestor release !
 
 # EZXT
 
