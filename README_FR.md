@@ -2,7 +2,7 @@
 
 <img heigh=auto width=25% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/SCTS.png">
 
-[EN version](https://github.com/Shaft-3796/Shaft-Crypto-Trading-Set/main/README.md)
+[EN version](https://github.com/Shaft-3796/Shaft-Crypto-Trading-Set/blob/main/README.md)
 
 #
 
