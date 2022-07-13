@@ -22,7 +22,7 @@
 
 <img heigh=auto width=15% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/Ezxt.png">
 
-#### [EZXT](https://github.com/Shaft-3796/EZXT) provide you a CCXT wrapper that simplify a lot of methods. You can still acces the original CCXT client to unimplemented features.
+#### [EZXT](https://github.com/Shaft-3796/EZXT) provide you a CCXT wrapper that simplify a lot of methods. You can still acces the original CCXT client to use unimplemented features.
 
 ##### This library is currently in developpement, finale realease soon !
 
