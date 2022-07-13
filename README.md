@@ -14,7 +14,7 @@
 
 <img heigh=auto width=15% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/BacktestPlus.png">
 
-#### Code your strategy, use Backtest+, use graphs & data to improve your trading. Code less, backtest more !
+#### Code your strategy, call [Backtest+](https://github.com/Shaft-3796/Backtest-Plus), use graphs & data to improve your trading. Code less, backtest more !
 
 ##### This library is currently in developpement, final release after Nestor release !
 
@@ -22,7 +22,7 @@
 
 <img heigh=auto width=15% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/Ezxt.png">
 
-#### EZXT provide you a CCXT wrapper that simplify a lot of methods. You can still acces the original CCXT client to unimplemented features.
+#### [EZXT](https://github.com/Shaft-3796/EZXT) provide you a CCXT wrapper that simplify a lot of methods. You can still acces the original CCXT client to unimplemented features.
 
 ##### This library is currently in developpement, finale realease soon !
 
@@ -30,7 +30,7 @@
 
 <img heigh=auto width=15% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/Nestor.png">
 
-#### Nestor provide a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
+#### [Nestor](https://github.com/Shaft-3796/Nestor/blob/main/README.md) provide a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
 
 ##### This library is currently in developpement, finale realease after EZXT release !
 
