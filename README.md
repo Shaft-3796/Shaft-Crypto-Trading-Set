@@ -16,7 +16,7 @@
 
 #### Code your strategy, use Backtest+, use graphs & data to improve your trading. Code less, backtest more !
 
-##### This library is currently in developpement, release after Nestor release !
+##### This library is currently in developpement, final release after Nestor release !
 
 # EZXT
 
@@ -24,7 +24,7 @@
 
 #### EZXT provide you a CCXT wrapper that simplify a lot of methods. You can still acces the original CCXT client to unimplemented features.
 
-##### This library is currently in developpement, realease soon !
+##### This library is currently in developpement, finale realease soon !
 
 # Nestor
 
@@ -32,6 +32,6 @@
 
 #### Nestor provide a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
 
-##### This library is currently in developpement, realease after EZXT release !
+##### This library is currently in developpement, finale realease after EZXT release !
 
 
