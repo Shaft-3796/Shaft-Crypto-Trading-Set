@@ -32,4 +32,6 @@
 
 #### Nestor provide a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
 
+##### This library is currently in developpement, realease after EZXT release !
+
 
