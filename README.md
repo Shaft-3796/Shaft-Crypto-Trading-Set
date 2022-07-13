@@ -2,6 +2,8 @@
 
 <img heigh=auto width=25% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/SCTS.png">
 
+[FR version](https://github.com/Shaft-3796/Shaft-Crypto-Trading-Set/blob/main/README_FR.md)
+
 #
 
 #### SCTS is a set of crypto trading tools built around 3 libraries.
