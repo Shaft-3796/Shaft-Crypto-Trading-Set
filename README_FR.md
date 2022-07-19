@@ -18,7 +18,7 @@
 
 #### Codez votre stratégie, appelez [Backtest+](https://github.com/Shaft-3796/Backtest-Plus), utilisez des graphes et des donnés pour améliorer votre trading. Codez moins, backtester plus !
 
-##### Cette bibliothèque est actuellement en développement, version finale disponible après celle de Nestor !
+##### Cette bibliothèque est actuellement en développement.
 
 # EZXT
 
@@ -26,7 +26,7 @@
 
 #### [EZXT](https://github.com/Shaft-3796/EZXT) vous fournis un wrapper de CCXT qui simplifie beaucoup de méthodes. Vous pouvez toujours accéder au client original de CCXT pour utiliser des fonctionalités non implémentées.
 
-##### Cette bibliothèque est actuellement en développement, version finale disponible bientôt !
+##### Cette bibliothèque est actuellement en développement.
 
 
 # Nestor
@@ -35,6 +35,20 @@
 
 #### [Nestor](https://github.com/Shaft-3796/Nestor/blob/main/README.md) vous fournis un framework pour créer votre bot de trading de rêve. Codez votre stratégie et utilisez la sur plusieurs marchés simultanément avec du multi-threading, contrôlez Nestor avec un panel discord avancé.
 
-##### Cette bibliothèque est actuellement en développement, version finale disponible après celle de EZXT !
+##### Cette bibliothèque est actuellement en développement.
 
+# 🛣️Feuille de route
 
+° EZXT version finale  *95% terminé*  
+          ⇣  
+° EZXT documentation  
+          ⇣  
+          ⇣  
+° NESTOR version finale  *20% terminé*  
+          ⇣  
+° NESTOR documentation  
+          ⇣  
+          ⇣  
+° BACKTEST+ version finale  *15% terminé*  
+          ⇣  
+° BACKTEST+ documentation 
