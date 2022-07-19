@@ -18,7 +18,7 @@
 
 #### Code your strategy, call [Backtest+](https://github.com/Shaft-3796/Backtest-Plus), use graphs & data to improve your trading. Code less, backtest more !
 
-##### This library is currently in developpement, final release after Nestor release !
+##### This library is currently in developpement.
 
 # EZXT
 
@@ -26,7 +26,7 @@
 
 #### [EZXT](https://github.com/Shaft-3796/EZXT) provide you a CCXT wrapper that simplify a lot of methods. You can still acces the original CCXT client to use unimplemented features.
 
-##### This library is currently in developpement, finale realease soon !
+##### This library is currently in developpement.
 
 # Nestor
 
@@ -34,6 +34,22 @@
 
 #### [Nestor](https://github.com/Shaft-3796/Nestor/blob/main/README.md) provide a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
 
-##### This library is currently in developpement, finale realease after EZXT release !
+##### This library is currently in developpement.
+
+# 🛣️Roadmap
+
+° EZXT final version  *95% finished*  
+          ⇣  
+° EZXT documentation  
+          ⇣  
+          ⇣  
+° NESTOR final version  *20% finished*  
+          ⇣  
+° NESTOR documentation  
+          ⇣  
+          ⇣  
+° BACKTEST+ final version  *15% finished*  
+          ⇣  
+° BACKTEST+ documentation  
 
 
