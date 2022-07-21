@@ -41,14 +41,8 @@
 
 ° EZXT version finale  *95% terminé*  
           ⇣  
-° EZXT documentation  
-          ⇣  
           ⇣  
 ° NESTOR version finale  *20% terminé*  
           ⇣  
-° NESTOR documentation  
-          ⇣  
           ⇣  
 ° BACKTEST+ version finale  *15% terminé*  
-          ⇣  
-° BACKTEST+ documentation 
