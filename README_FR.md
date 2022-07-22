@@ -39,7 +39,7 @@
 
 # 🛣️Feuille de route
 
-° EZXT version finale  *95% terminé*  
+° EZXT version finale  *100% terminé (doc restante)*  
           ⇣  
           ⇣  
 ° NESTOR version finale  *20% terminé*  
