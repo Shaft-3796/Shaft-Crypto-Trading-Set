@@ -38,7 +38,7 @@
 
 # 🛣️Roadmap
 
-° EZXT final version  *95% finished*  
+° EZXT final version  *100% finished (doc remaining)*  
           ⇣  
           ⇣  
 ° NESTOR final version  *20% finished*  
